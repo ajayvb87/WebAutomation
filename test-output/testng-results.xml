@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45329" started-at="2020-05-05T11:02:52Z" finished-at="2020-05-05T11:03:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45329" started-at="2020-05-05T11:02:52Z" finished-at="2020-05-05T11:03:38Z">
+      <class name="com.testcases1.LoginTestCase1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcases1.LoginTestCase1@26653222]" name="openBrowser" is-config="true" duration-ms="11618" started-at="2020-05-05T11:02:52Z" finished-at="2020-05-05T11:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="PWDRecovery()[pri:0, instance:com.testcases1.LoginTestCase1@26653222]" name="PWDRecovery" duration-ms="10340" started-at="2020-05-05T11:03:04Z" finished-at="2020-05-05T11:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PWDRecovery -->
+        <test-method status="PASS" signature="userLogin()[pri:0, instance:com.testcases1.LoginTestCase1@26653222]" name="userLogin" duration-ms="18083" started-at="2020-05-05T11:03:14Z" finished-at="2020-05-05T11:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="closeBroswer()[pri:0, instance:com.testcases1.LoginTestCase1@26653222]" name="closeBroswer" is-config="true" duration-ms="5261" started-at="2020-05-05T11:03:32Z" finished-at="2020-05-05T11:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroswer -->
+      </class> <!-- com.testcases1.LoginTestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

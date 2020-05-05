@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ICICI Bank Suite" parallel="false">
+
+  <test name="MoneyTransfer">
+    <classes>
+      <class name="com.testcases1.LoginTestCase1"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+  
+</suite> <!-- Suite -->
