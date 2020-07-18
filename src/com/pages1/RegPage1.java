@@ -44,8 +44,8 @@ public class RegPage1 extends BasePage1 {
 	@FindBy(how=How.ID,using="register-button") WebElement regClick;
 	public void enterPWD_Submit() 
 	{
-		pswrd.sendKeys("Poorna@123");
-		confpswd.sendKeys("Poorna@123");
+		pswrd.sendKeys("xyz@123");
+		confpswd.sendKeys("xyz@123");
 		regClick.click();
 		
 		
