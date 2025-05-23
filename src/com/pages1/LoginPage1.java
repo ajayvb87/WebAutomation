@@ -25,6 +25,7 @@ public class LoginPage1 extends BasePage1{
 	{
 		furgot.click();
 		emil.sendKeys("ajay.vb87@gmail.com");
+		System.out.println("yes");
 		
 	}
 }
